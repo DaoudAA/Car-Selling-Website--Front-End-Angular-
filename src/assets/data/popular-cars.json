@@ -1,0 +1,202 @@
+[
+  {
+    "id": 1,
+    "name": "BMW M5",
+    "cover": "https://img.20mn.fr/an9JMOVzRNqtVPjyP6vF9w/1444x920_bmw-m5-competition",
+    "rating": 4.7,
+    "reviews": [
+      {
+        "author": "Car Enthusiast",
+        "published_on": "2024-10-06 10:30:00",
+        "review": "A powerful and luxurious driving experience.",
+        "rating": 5.0
+      },
+      {
+        "author": "Family Driver",
+        "published_on": "2024-10-06 10:30:00",
+        "review": "Great performance, but not the most practical for everyday use.",
+        "rating": 4.0
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Audi RS7",
+    "cover": "https://img-ik.cars.co.za/news-site-za/images/2023/07/rs6-rs7-inside-2.jpg?tr=w-800",
+    "rating": 4.6,
+    "reviews": [
+      {
+        "author": "Tech Fan",
+        "published_on": "2024-10-06 10:30:00",
+        "review": "Sleek design with impressive technology features.",
+        "rating": 4.5
+      },
+      {
+        "author": "Sports Car Lover",
+        "published_on": "2024-10-06 10:30:00",
+        "review": "Handles beautifully and offers exhilarating acceleration.",
+        "rating": 5.0
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Porsche 911",
+    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4T-_wG5gTbY3HP9ttztyjeHv6r1JxuI5WKQ&s",
+    "rating": 4.8,
+    "reviews": [
+      {
+        "author": "Track Enthusiast",
+        "published_on": "2024-10-06 10:30:00",
+        "review": "The ultimate sports car driving experience. Unmatched performance and handling.",
+        "rating": 5.0
+      },
+      {
+        "author": "Daily Driver",
+        "published_on": "2024-10-06 10:30:00",
+        "review": "A bit too stiff for everyday commuting, but fantastic on the weekends.",
+        "rating": 4.0
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Mercedes-Benz S-Class",
+    "cover": "https://img.sm360.ca/images//page/silverstar/97886/file/mercedes-benz-s-class-41632470935855.jpg",
+    "rating": 4.9,
+    "reviews": [
+      {
+        "author": "Luxury Car Fan",
+        "published_on": "2024-10-06 10:30:00",
+        "review": "The epitome of luxury and comfort.",
+        "rating": 5.0
+      },
+      {
+        "author": "Business Executive",
+        "published_on": "2024-10-06 10:30:00",
+        "review": "Nothing compares to the refinement and features of this car.",
+        "rating": 4.8
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Lamborghini Huracan",
+    "cover": "https://cdn-s-www.leprogres.fr/images/A0435F1F-F793-4663-90FB-32C6AE2BDF88/NW_raw/lamborghini-offre-une-derniere-danse-a-l-huracan-avec-la-nouvelle-stj-1712756368.jpg",
+    "rating": 4.9,
+    "reviews": [
+      {
+        "author": "Exotic Car Fan",
+        "published_on": "2024-10-06 10:30:00",
+        "review": "A jaw-dropping supercar with mind-blowing performance.",
+        "rating": 5.0
+      },
+      {
+        "author": "Weekend Warrior",
+        "published_on": "2024-10-06 10:30:00",
+        "review": "Not the most comfortable for long drives, but unbeatable for thrill seekers.",
+        "rating": 4.7
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Tesla Model S Plaid",
+    "cover": "https://www.automobile-sportive.com/guide/tesla/modelsplaid/tesla-model-s-plaid.jpg",
+    "rating": 4.8,
+    "reviews": [
+      {
+        "author": "Tech Enthusiast",
+        "published_on": "2024-10-06 10:30:00",
+        "review": "Unparalleled electric performance with cutting-edge tech.",
+        "rating": 5.0
+      },
+      {
+        "author": "Eco-Conscious Driver",
+        "published_on": "2024-10-06 10:30:00",
+        "review": "Sustainable luxury, but charging infrastructure can be a challenge on long trips.",
+        "rating": 4.6
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Ferrari Roma",
+    "cover": "https://res.cloudinary.com/unix-center/image/upload/c_limit,dpr_3.0,f_auto,fl_progressive,g_center,h_240,q_auto:good,w_385/doytd8nw257vjtptpz8a.jpg",
+    "rating": 4.9,
+    "reviews": [
+      {
+        "author": "Ferrari Fan",
+        "published_on": "2024-10-06 10:30:00",
+        "review": "A stylish and elegant Ferrari with the heart of a racer.",
+        "rating": 5.0
+      },
+      {
+        "author": "Luxury Sports Car Enthusiast",
+        "published_on": "2024-10-06 10:30:00",
+        "review": "One of the best-looking Ferraris ever made, but it's not as extreme as some of its stablemates.",
+        "rating": 4.8
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "name": "McLaren 720S",
+    "cover": "https://arperformance.fr/wp-content/uploads/2023/05/mclaren720s61c2f6440e502.jpg",
+    "rating": 4.9,
+    "reviews": [
+      {
+        "author": "Supercar Fanatic",
+        "published_on": "2024-10-06 10:30:00",
+        "review": "One of the most exciting supercars to drive. Insane speed and handling.",
+        "rating": 5.0
+      },
+      {
+        "author": "Daily Driver",
+        "published_on": "2024-10-06 10:30:00",
+        "review": "Surprisingly comfortable for a supercar, but still quite extreme for city driving.",
+        "rating": 4.7
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Jaguar F-Type",
+    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcm3zu4_fRedP0rGOCYTUe8d_B1ajQqa9yig&s",
+    "rating": 4.7,
+    "reviews": [
+      {
+        "author": "Jaguar Enthusiast",
+        "published_on": "2024-10-06 10:30:00",
+        "review": "A perfect blend of British elegance and sporty performance.",
+        "rating": 4.8
+      },
+      {
+        "author": "Luxury Driver",
+        "published_on": "2024-10-06 10:30:00",
+        "review": "Fantastic looks, but lacks the excitement of some of its competitors.",
+        "rating": 4.6
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Aston Martin DB11",
+    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2dyvbVQp9Hc9zTf9Q2IxnRxdt2q2_mTGNMw&s",
+    "rating": 4.8,
+    "reviews": [
+      {
+        "author": "James Bond Fan",
+        "published_on": "2024-10-06 10:30:00",
+        "review": "The ultimate grand tourer, blending luxury with performance.",
+        "rating": 5.0
+      },
+      {
+        "author": "Weekend Driver",
+        "published_on": "2024-10-06 10:30:00",
+        "review": "Smooth and refined, but not as aggressive as some sports cars.",
+        "rating": 4.7
+      }
+    ]
+  }
+]

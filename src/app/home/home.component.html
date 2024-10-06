@@ -1,0 +1,58 @@
+<app-header></app-header>
+<div class="home-container">
+    <div class="all-cars">
+        <div class="trending-cars">
+            <div class="top">
+                <h4>Trending Cars</h4>
+                <div class="view-all">View All Cars</div>
+            </div>
+            <div class="cars-thumbnail">
+                <div class="car" *ngFor="let car of trendingCars">
+                    <div class="cover" (click)="goToCar('trending', car.id)">
+                        <img [src]="car.cover" alt="">
+                    </div>
+                    <div class="detail">
+                        <div class="name" (click)="goToCar('trending', car.id)">{{car.name}}</div>
+                        <div class="rating">
+                            <span class="rating-value">{{car.rating}}</span>
+                            <app-star-rating [rating]="car.rating" [isReadOnly]="true"></app-star-rating>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="super-cars">
+            <div class="top">
+                <h4>Super Cars</h4>
+                <div class="view-all">View All Cars</div>
+            </div>
+            <div class="cars-thumbnail">
+                <div class="car" *ngFor="let car of superCars">
+                    <div class="cover" (click)="goToCar('super', car.id)">
+                        <img [src]="car.cover" alt="">
+                    </div>
+                    <div class="detail">
+                        <div class="name" (click)="goToCar('super', car.id)">{{car.name}}</div>
+                        <div class="rating">
+                            <span class="rating-value">{{car.rating}}</span>
+                            <app-star-rating [rating]="car.rating" [isReadOnly]="true"></app-star-rating>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="popular-cars">
+            <h4>All Time Popular</h4>
+        <div class="cars">
+            <div class="car" *ngFor="let car of popularCars">
+                    <div class="name" (click)="goToCar('popular', car.id)">{{car.name}}</div>
+                    <div class="rating">
+                        <span class="rating-value">{{car.rating}}</span>
+                        <app-star-rating [rating]="car.rating" [isReadOnly]="true"></app-star-rating>
+                    </div>
+            </div>
+            <div class="view-all">View all</div>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,37 @@
+[
+    {
+      "id": 16,
+      "name": "Bugatti Chiron Super Sport 300+",
+      "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Bugatti_Chiron_1.jpg/280px-Bugatti_Chiron_1.jpg",
+      "rating": 4.9,
+      "trending_score": 99.2
+    },
+    {
+      "id": 17,
+      "name": "Hennessey Venom F5",
+      "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/2022_Hennessey_Venom_F5.jpg/280px-2022_Hennessey_Venom_F5.jpg",
+      "rating": 4.8,
+      "trending_score": 98.7
+    },
+    {
+      "id": 18,
+      "name": "SSC Tuatara",
+      "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/2019_SSC_Tuatara_at_Pebble_Beach_Press_Conference.jpg/1024px-2019_SSC_Tuatara_at_Pebble_Beach_Press_Conference.jpg",
+      "rating": 4.7,
+      "trending_score": 98.1
+    },
+    {
+      "id": 19,
+      "name": "Koenigsegg Jesko",
+      "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/GIMS_2019%2C_Le_Grand-Saconnex_%28GIMS0833%29.jpg/280px-GIMS_2019%2C_Le_Grand-Saconnex_%28GIMS0833%29.jpg",
+      "rating": 4.8,
+      "trending_score": 97.9
+    },
+    {
+      "id": 20,
+      "name": "Ferrari SF90 Stradale",
+      "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Red_2019_Ferrari_SF90_Stradale_%2848264238897%29_%28cropped%29.jpg/280px-Red_2019_Ferrari_SF90_Stradale_%2848264238897%29_%28cropped%29.jpg",
+      "rating": 4.9,
+      "trending_score": 97.5
+    }
+]

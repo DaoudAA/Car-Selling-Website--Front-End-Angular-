@@ -1,0 +1,38 @@
+[
+    {
+      "id": 11,
+      "name": "Tesla Cybertruck",
+      "cover": "https://cdn.motor1.com/images/mgl/JOxo1K/s1/tesla-cybertruck.jpg",
+      "rating": 4.9,
+      "trending_score": 98.5
+    },
+    {
+      "id": 12,
+      "name": "Xiaomi SU7 Car",
+      "cover": "https://images.squarespace-cdn.com/content/v1/63c94d36684e583a7ae37e3b/3794d3b8-7c93-47ff-9d3b-a986c619bd9e/Captain-Electro-Xiaomi-SU7-3.png", 
+      "rating": 4.7,
+      "trending_score": 97.0
+    },
+    {
+      "id": 13,
+      "name": "Ford Mustang Mach-E",
+      "cover": "https://hips.hearstapps.com/hmg-prod/images/2024-ford-mustang-mach-e-rally-1-64f87f1882d10.jpg?crop=0.662xw:0.556xh;0.188xw,0.314xh&resize=2048:*",
+      "rating": 4.8,
+      "trending_score": 96.5
+    },
+    {
+      "id": 14,
+      "name": "Lucid Air",
+      "cover": "https://hips.hearstapps.com/hmg-prod/images/2024-lucid-air-pure-rwd-106-6581b079a9386.jpg?crop=0.726xw:0.612xh;0.261xw,0.374xh&resize=1200:*",
+      "rating": 4.9,
+      "trending_score": 96.2
+    },
+    {
+      "id": 15,
+      "name": "Rivian R1T",
+      "cover": "https://i.gaw.to/content/photos/49/68/496894-rivian-r1t-2022.jpeg?1024x640",
+      "rating": 4.8,
+      "trending_score": 95.8
+    }
+  ]
+  

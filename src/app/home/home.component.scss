@@ -1,0 +1,108 @@
+.home-container {
+    display: flex;
+
+    .all-cars {
+        width: 75%;
+        min-height: calc(100vh - 80px);
+        border-right: 1px solid #5dbadf;
+        padding: 20px 40px;
+        font-family: "Roboto", sans-serif;
+
+        .top {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            margin-bottom: 15px;
+
+            h4 {
+                text-transform: uppercase;
+                font-weight: bold;
+                border-left: 5px solid  rgb(165, 68, 194);
+                padding-left: 10px;
+            }
+
+            .view-all {
+                color: rgb(165, 68, 194);
+                cursor: pointer;
+            }
+        }
+
+        .cars-thumbnail {
+            display:flex;
+            justify-content: space-between;
+            margin-bottom: 30px;
+
+            .car {
+                .cover {
+                    cursor: pointer;
+                    img {
+                        border-radius: 10px;
+                        width: 200px; 
+                        height: 120px;
+                        object-fit: cover; 
+                        
+                    }
+                }
+
+                .detail {
+                    width: 180px;
+
+                    .name {
+                        font-weight: bold;
+                        height: 50px;
+                        margin-top: 5px;
+                        cursor: pointer;
+                    }
+                }
+            }
+        }
+    }
+
+    .popular-cars {
+        width: 25%;
+        min-height: calc(100vh - 80px);
+        padding: 20px 40px;
+        font-family: "Roboto", sans-serif;
+
+        h4 {
+            text-transform: uppercase;
+            font-weight: bold;
+            border-left: 5px solid #c87fe6;
+            padding-left: 10px;
+        }
+
+        .cars {
+            .car {
+                margin-bottom: 20px;
+                margin-top: 30px;
+                display: flex;
+                align-items: center;
+                justify-content: space-between;
+
+                .name {
+                    font-weight: bold;
+                    cursor: pointer;
+                }
+            }
+
+            .view-all {
+                color: #c87fe6;
+                text-align: right;
+                margin-top: 30px;
+                cursor: pointer;
+            }
+        }
+    }
+}
+
+.rating {
+    padding-right: 45px;
+    position: relative;
+
+    .rating-value {
+        position: absolute;
+        top: 10px;
+        right: 0px;
+        font-weight: bold;
+    }
+}
